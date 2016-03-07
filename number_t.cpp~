@@ -246,6 +246,6 @@ int main(void)
 	cout << d << endl;
 	cout << e << endl;
 	cout << f << endl;
-} 
+}
 
 
